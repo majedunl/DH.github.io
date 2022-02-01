@@ -1,0 +1,20 @@
+body {
+background-color:yellow;
+}
+
+h1 {
+color:blue;
+font-family:times;
+background-color:green;
+border:5px solid black;
+padding:50px;
+ }
+
+h2 {
+color:black;
+font-family:helvetica;
+background-color:white;
+border:5px solid black;
+padding:50px;
+ }
+}
