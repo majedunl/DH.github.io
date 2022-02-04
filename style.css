@@ -1,11 +1,11 @@
 body {
-background-color:Almond;
+background-color:##EADDCA;
 }
 
 h1 {
 color:blue;
 font-family:times;
-background-color:Sky Blue;
+background-color:SkyBlue;
 border:5px solid black;
 padding:50px;
  }
@@ -13,7 +13,7 @@ padding:50px;
 h2 {
 color:black;
 font-family:helvetica;
-background-color:Seafoam Green;
+background-color:SeafoamGreen;
 border:5px solid black;
 padding:50px;
  }
